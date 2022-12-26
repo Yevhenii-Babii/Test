@@ -1,0 +1,25 @@
+.item__tweet {
+font-weight: 500;
+font-size: 24px;
+margin-top: 74px;
+text-align: center;
+line-height: 1.21;
+text-transform: uppercase;
+color: #EBD8FF;
+font-family: "Montserrat", sans-serif;
+}
+
+.item__followers{
+    font-weight: 500;
+font-size: 24px;
+margin-top: 20px;
+text-align: center;
+line-height: 1.21;
+text-transform: uppercase;
+color: #EBD8FF;
+font-family: "Montserrat", sans-serif;
+}
+
+.card__list{
+    list-style: none;
+}

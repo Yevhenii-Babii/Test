@@ -1,0 +1,63 @@
+
+
+.wrapper{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card{
+    width: 454px;
+height: 547px;
+background: linear-gradient(114.99deg, #471CA9 -0.99%, #5736A3 54.28%, #4B2A99 78.99%);
+margin: 0 auto;
+border-radius: 24px;
+box-shadow: -3px 8px 24px rgba(0, 0, 0, 0.23);
+}
+
+
+
+.card .logo{
+    display: inline-block;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+.picture{
+    margin: 0 auto;
+    margin-bottom: 23px;
+}
+
+.line {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+.portray {
+    position: absolute;
+left:50%;
+transform:translate(-50%, -50%);
+}
+
+button{
+    width: 226px;
+    height: 56px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 32px;
+    background-color: #EBD8FF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 12px;
+border: 0;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 1.2;
+text-transform: uppercase;
+cursor: pointer;
+font-family: "Montserrat", sans-serif;
+}
+
+.btn__active{
+    background: rgba(92, 211, 168, 1);
+}
+    
